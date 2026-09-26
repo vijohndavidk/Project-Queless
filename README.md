@@ -308,4 +308,4 @@ React is now running at **http://localhost:5173/**.
 
 ## Author
 
-Add your name, GitHub, and portfolio link here.
+Vijohn David K
